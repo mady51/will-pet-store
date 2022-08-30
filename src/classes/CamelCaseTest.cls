@@ -2,7 +2,7 @@ public class CamelCaseTest {  //all wrong
     
     private integer NOT_CONSTANT = 2;
     
-    private final integer snake_constant = 3;
+    private final integer snake_constant = 3;// comment
     
     public void camelCaseTest(){
         NOT_CONSTANT++;
