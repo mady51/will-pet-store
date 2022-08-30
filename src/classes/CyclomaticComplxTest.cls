@@ -1,7 +1,7 @@
 public class CyclomaticComplxTest {
     
     Integer a, b, c, d, e, f, lt, h, a1, a2, b1, b2;
-    
+    // comment
     public void fiddle(){}
     
     public void example() {
