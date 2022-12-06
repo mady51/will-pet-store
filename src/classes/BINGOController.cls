@@ -19,6 +19,7 @@ global with sharing class BINGOController {
     private List<User> allusers;
     private Set<Id> userids;
     public User me {get; set;}
+    public User me {get; set;}
     public User user1 {get; set;}
     public User user2 {get; set;}
     public User user3 {get; set;}
